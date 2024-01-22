@@ -1,4 +1,4 @@
-[![MasterHead](https://66.media.tumblr.com/fa794d0a20abf71e3622b0c3d12a44af/tumblr_inline_o0ltrnrVyv1to8h2v_500.gif)](https://zetabot.xyz)
+[![MasterHead]([https://66.media.tumblr.com/fa794d0a20abf71e3622b0c3d12a44af/tumblr_inline_o0ltrnrVyv1to8h2v_500.gif](https://i.pinimg.com/originals/eb/f2/c2/ebf2c23af0543a7a2e72e53cda3d1046.jpg))](https://zetabot.xyz)
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align= "right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
