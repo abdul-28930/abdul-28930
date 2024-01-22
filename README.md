@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-28930&show_icons=true&locale=en" alt="abdul-28930" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-28930&" alt="abdul-28930" /></p>
+
+<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-28930&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</p>
