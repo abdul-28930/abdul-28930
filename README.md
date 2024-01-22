@@ -1,4 +1,4 @@
-[![MasterHead]([https://66.media.tumblr.com/fa794d0a20abf71e3622b0c3d12a44af/tumblr_inline_o0ltrnrVyv1to8h2v_500.gif](https://i.pinimg.com/originals/eb/f2/c2/ebf2c23af0543a7a2e72e53cda3d1046.jpg))](https://zetabot.xyz)
+[![MasterHead](https://i.pinimg.com/originals/82/bb/9d/82bb9dbc0dac8f1b279994ea702290f8.jpg)](https://zetabot.xyz)
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 <img align= "right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
@@ -22,5 +22,7 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-28930&show_icons=true&locale=en" alt="abdul-28930" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-28930&" alt="abdul-28930" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-28930&" alt="abdul-28930" /></p>
