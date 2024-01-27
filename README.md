@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdul_28930" target="blank"><img src="https://img.shields.io/twitter/follow/abdul_28930?logo=twitter&style=for-the-badge" alt="abdul_28930" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Data Analytics and Full Stack Development**
 
 - 📫 How to reach me **abdulsalam2125@gmail.com**
 
