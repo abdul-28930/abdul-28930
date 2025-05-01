@@ -1,6 +1,6 @@
 <img align="center" alt="main" width= "1000" src="https://66.media.tumblr.com/fa794d0a20abf71e3622b0c3d12a44af/tumblr_inline_o0ltrnrVyv1to8h2v_500.gif">
 <h1 align="center">Hi 👋, I'm Abdul Salam</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
+<h3 align="center">A ML and NLP enthusiast from India</h3>
 <img align= "right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
 
 
